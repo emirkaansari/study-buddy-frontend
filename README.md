@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# study-buddy-frontend
-=======
 # study-buddy-frontend
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -69,4 +66,3 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
->>>>>>> 5164ba5 (project-init)
