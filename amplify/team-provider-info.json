@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-studybuddyfrontend-dev-185634-authRole",
+      "UnauthRoleArn": "arn:aws:iam::305809851546:role/amplify-studybuddyfrontend-dev-185634-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::305809851546:role/amplify-studybuddyfrontend-dev-185634-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-studybuddyfrontend-dev-185634-deployment",
+      "UnauthRoleName": "amplify-studybuddyfrontend-dev-185634-unauthRole",
+      "StackName": "amplify-studybuddyfrontend-dev-185634",
+      "StackId": "arn:aws:cloudformation:eu-north-1:305809851546:stack/amplify-studybuddyfrontend-dev-185634/2f1fe980-c76c-11ee-9850-06f8d36651bc",
+      "AmplifyAppId": "d2e87j890r1los"
+    },
+    "categories": {
+      "auth": {
+        "studybuddyfrontend0b4d4060": {}
+      }
+    }
+  }
+}
